@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "exports": "./index.js",
+  "bin": "./build/src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node-esm ./src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "database": "file:../database",
+    "mongoose": "^7.3.0"
+  }
+}
