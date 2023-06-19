@@ -1,6 +1,6 @@
 # Potential Mongoose Project Bug
 
-Repo investigating mongoose's strange behavior when it comes to imported modules. I could be absolutely silly or missing something, but I wanted to create this repo to document the issue.
+Repo investigating mongoose's strange behavior when it comes to imported modules. I could be absolutely silly or missing something, but I wanted to create this repo to document my personal issues.
 
 ## Getting Started
 
